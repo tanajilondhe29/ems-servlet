@@ -24,13 +24,13 @@
 				<tr>
 					<td>Location :</td>
 					<td><input type="text" name="location"
-						value="${employee.email}"></td>
+						value="${employee.location}"></td>
 					<br>
 				</tr>
 				<tr>
 					<td>Email :</td>
 					<td><input type="text" name="email"
-						value="${employee.location}"></td>
+						value="${employee.email}"></td>
 					<br>
 				</tr>
 				<tr>
